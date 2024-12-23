@@ -12,6 +12,7 @@
 /// \brief Forward export of my library
 ///////////////////////////////////////////////////////////////////////////////
 #include <my/types.hpp>
+#include <my/templates.hpp>
 #include <my/maths.hpp>
 #include <my/limits.hpp>
 
