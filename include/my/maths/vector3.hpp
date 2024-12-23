@@ -5,8 +5,8 @@
 ** vector3
 */
 
-#ifndef VECTOR3_HPP_
-    #define VECTOR3_HPP_
+#ifndef MY_MATHS_VECTOR3_HPP_
+    #define MY_MATHS_VECTOR3_HPP_
 
 ///////////////////////////////////////////////////////////////////////////////
 /// \brief Namespace my
@@ -81,4 +81,4 @@ public:
 ///////////////////////////////////////////////////////////////////////////////
 #include <my/maths/vector3.inl>
 
-#endif /* !VECTOR3_HPP_ */
+#endif /* !MY_MATHS_VECTOR3_HPP_ */
