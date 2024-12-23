@@ -3,5 +3,7 @@
     "editor.renderWhitespace": "all",
     "editor.insertSpaces": true,
     "editor.tabSize": 4,
-    "editor.rulers": [79]
+    "editor.rulers": [
+        79
+    ]
 }
